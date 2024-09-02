@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076966545964",
+    "project_id": "capevi-680e0",
+    "storage_bucket": "capevi-680e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076966545964:android:b563d43cb4ee4e68e68f89",
+        "android_client_info": {
+          "package_name": "com.capevi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC6MMdny-gquNURXxhbKX6WIl_dCIlp0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

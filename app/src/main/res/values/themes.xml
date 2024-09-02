@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@drawable/background</item>
+        <item name="postSplashScreenTheme">@style/Theme.Capevi</item>
+        <item name="windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+    </style>
+    <style name="CustomTimePickerDialogTheme" parent="Theme.MaterialComponents.DayNight.Dialog.Alert">
+        <item name="colorPrimary">#1B448D</item>
+        <item name="colorPrimaryDark">#1B448D</item>
+        <item name="colorAccent">#BDE1FF</item>
+    </style>
+    <style name="Theme.Capevi" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
